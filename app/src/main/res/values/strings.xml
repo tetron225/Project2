@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="emailname"><u>abclearning@gmail.com</u></string>
+    <string name="phonename"><u>(718)555-7834</u></string>
+    <string name="webname"><u>www.abclearnit.org</u></string>
+
+</resources>
